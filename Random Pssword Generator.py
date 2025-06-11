@@ -1,3 +1,5 @@
+# Random Password Generator
+
 import random
 
 lower_case = "abcdefghijklmnopqrstuvwxyz"
